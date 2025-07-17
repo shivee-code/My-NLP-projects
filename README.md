@@ -20,7 +20,7 @@ This repository showcases two major NLP-based machine learning projects focused 
 
 - Built a sentiment analysis model to classify IMDb movie reviews as positive or negative.
 - Performed text preprocessing, tokenization, stopword removal, and model training.
-- Achieved high accuracy using models like Logistic Regression and deep learning (optional).
+- Achieved high accuracy using models like Logistic Regression and deep learning.
 
 ---
 
